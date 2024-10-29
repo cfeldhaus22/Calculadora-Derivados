@@ -1,4 +1,4 @@
-# Calculadora-Derivados# Calculadora de Árboles Binomiales para Productos Derivados
+# Calculadora de Árboles Binomiales para Productos Derivados
 
 Este repositorio contiene un archivo de Excel con una macro incorporada que permite calcular el valor de productos financieros derivados mediante árboles binomiales. Esta herramienta es ideal para evaluar opciones europeas, americanas, digitales y con dividendos, utilizando parámetros específicos de mercado.
 
